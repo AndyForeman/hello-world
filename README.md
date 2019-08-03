@@ -1,2 +1,4 @@
 # hello-world
-My notes.
+
+Hello everyone!
+Andy here, I enjoy creating and sharing what I learn.
